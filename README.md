@@ -1,5 +1,5 @@
 # DBMS_space_game
-DBMS Project - online arcade games.  
+DBMS Project - A multiplayer game made using Pygame and MySQL where players play old school retro games and compete with their friends.
 Made by  
    * Praveen Venkat
    * Shivakumar Narayanan 
